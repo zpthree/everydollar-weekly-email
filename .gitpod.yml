@@ -1,5 +1,5 @@
 tasks:
-  - before: >      
+  - before: |    
       git clone https://github.com/zpthree/gitpod-dotfiles.git ~/dotfiles
       sh ~/dotfiles/base.sh
       zsh
