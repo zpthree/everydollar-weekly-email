@@ -1,0 +1,24 @@
+{
+  "name": "everydollar-weekly-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpthree/everydollar-weekly-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zpthree/everydollar-weekly-email/issues"
+  },
+  "homepage": "https://github.com/zpthree/everydollar-weekly-email#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer": "^14.1.0",
+    "puppeteer-core": "^10.1.0"
+  }
+}
